@@ -1,4 +1,6 @@
 # Portafolio 2 Heart disease
+## Conjunto de datos obtenidos de: https://www.kaggle.com/datasets/krishujeniya/heart-diseae/data
+
 # Análisis y Reporte sobre el Desempeño del Modelo de Regresión Logística
 
 Este repositorio contiene el análisis y reporte completo del desempeño de un modelo de regresión logística para predecir la presencia de enfermedades cardíacas, utilizando un conjunto de datos clínicos. El análisis incluye evaluaciones detalladas del modelo sin ajustes y con ajustes, utilizando técnicas de validación cruzada y regularización para mejorar su rendimiento.
